@@ -24,6 +24,8 @@ Write an efficient algorithm for the following assumptions:
 X, Y and D are integers within the range [1..1,000,000,000];
 X ≤ Y.
  '''
+#PAINLESS
+
 def solution (X=10, Y=85, D=30):
     test = Y - X
     res = test / D
